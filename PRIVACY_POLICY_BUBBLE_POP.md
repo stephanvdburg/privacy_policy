@@ -1,4 +1,4 @@
-# Privacy Policy for Bubble Pop
+# Bubble Pop - Privacy Policy
 
 *Last updated: 21/11/2025*
 
@@ -28,7 +28,7 @@ ads through Google AdMob.
 The App displays ads using Google AdMob. Google may use cookies or
 device identifiers to display personalized or non-personalized ads.
 
-Google Privacy Policy: https://policies.google.com/privacy\
+Google Privacy Policy: https://policies.google.com/privacy \
 Google Partner Sites Data Use: https://policies.google.com/technologies/partner-sites
 
 ## 4. How We Use Information
@@ -57,6 +57,6 @@ Updates will be posted within the App or on the Google Play Store.
 
 ## 9. Contact Us
 
-**Developer:** Stephan vdb \
+**Developer:** Stephan vdB \
 **Location:** Oxford, England\
 **Email:** svdb.software@gmail.com
