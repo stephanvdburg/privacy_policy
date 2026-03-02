@@ -1,6 +1,6 @@
 # Privacy Policy for PaxShare
 
-**Last updated:** 30/01/2026
+**Last updated:** 02/03/2026
 
 ## 1. Introduction
 
@@ -12,14 +12,14 @@ We are committed to protecting your personal data and respecting your privacy in
 - Data Protection Act 2018
 - Google Play Developer Policies
 
-This Privacy Policy explains how we collect, use, store, and protect your information when you use the PaxShare mobile application.
+This Privacy Notice explains how we collect, use, store, and protect your information when you use the PaxShare mobile application.
 
 ---
 
 ## 2. Data Controller
 
 **App Name:** PaxShare  
-**Contact Email:** svdb.software@gmail.com
+**Contact Email:** svdb.software@gmail.com  
 **Country:** United Kingdom  
 
 PaxShare is the data controller responsible for your personal data.
@@ -28,23 +28,26 @@ PaxShare is the data controller responsible for your personal data.
 
 ## 3. Information We Collect
 
-We may collect and process the following types of personal data:
-
 ### 3.1 Account Information
+The following information is collected from you when you sign up and when you login. Also if you contact support.
 - Name
 - Email address
+- Login credentials (encrypted)
 
-### 3.2 Declaration Data (User Entered)
-- Passenger names (if entered by you)
+### 3.2 Declaration Data
+The following information is collected from you when you enter it into the declaration form on the PaxShare application.
+- Passenger names
 - Flight date
 - Planned route
-- Aircraft information (non-personal unless linked to identifiable individuals)
+- Aircraft information
+- License type and number
 
-### 3.3 Technical Information (Automatically Collected)
+### 3.3 Technical Information
+The following information is automatically collected once you install and use the PaxShare application.
 - Device type
 - Android OS version
 - App version
-- Basic usage analytics (if enabled)
+- Basic usage analytics
 
 ---
 
@@ -83,11 +86,9 @@ For optional analytics or non-essential data processing
 
 We do **not sell personal data**.
 
-We may share data with:
-
-- Cloud hosting providers (for secure data storage)
-- Email service providers (for account verification and communication)
-- Analytics providers (if used and disclosed in Data Safety section)
+We share data with a limited number of third parties:
+- Google Firebase, the cloud hosting provider (for secure data storage), email service provider (for account verification and communication), and analytics provider
+- RevenueCat, for processing payments and managing credits
 
 All third parties are required to protect your data.
 
@@ -95,10 +96,7 @@ All third parties are required to protect your data.
 
 ## 7. International Data Transfers
 
-If data is stored or processed outside the UK, we ensure appropriate safeguards are in place, such as:
-
-- UK International Data Transfer Agreement (IDTA), or
-- Adequacy decisions where applicable
+If data is stored or processed outside the UK, we ensure appropriate safeguards are in place, such as the UK International Data Transfer Agreement (IDTA). Cloud hosting is UK-based.
 
 ---
 
@@ -139,7 +137,7 @@ You have the right to:
 - Data portability  
 - Withdraw consent (where processing is based on consent)
 
-To exercise these rights, contact us at: svdb.software@gmail.com
+To exercise these rights, you can delete your account from within your account settings. Alternatively, contact us at: svdb.software@gmail.com
 
 ---
 
@@ -156,16 +154,16 @@ We declare data collection and usage in the Google Play Data Safety section as r
 
 ---
 
-## 13. Changes to This Privacy Policy
+## 13. Changes to This Privacy Notice
 
-We may update this Privacy Policy from time to time.  
+We may update this Privacy Notice from time to time.  
 We will update the "Last updated" date when changes are made.
 
 ---
 
 ## 14. Contact Us
 
-If you have questions about this Privacy Policy or your data:
+If you have questions about this Privacy Notice or your data:
 
 Email: svdb.software@gmail.com
 
